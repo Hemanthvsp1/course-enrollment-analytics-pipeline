@@ -1,0 +1,6 @@
+department_id,department_code,department_name,college
+1,CS,Computer Science,Engineering
+2,MATH,Mathematics,Science
+3,BUS,Business Administration,Business
+4,BIO,Biology,Science
+5,ENG,English,Arts and Humanities
